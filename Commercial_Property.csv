@@ -1749,3 +1749,703 @@
 1747,Retail in Sultan Gate Place,3261,302.96,2361,Rochor (D7),[],0,7700000
 1748,Office in Rocca Balestier,2992,277.97,1103,Toa Payoh (D12),[],0,3300000
 1749,Office in Woods Square,560,52.03,1786,Woodlands (D25),"['Column free', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Security access', 'Air conditioning']",7,1000000
+1750,General Industrial in Kaki Bukit Techpark I,16200,"1,505.03",358,Paya Lebar (D14),"['Bath room', 'Loading bay', 'Pantry', 'Car park', '24 hr access', 'Air conditioning']",6,5800000
+1751,General Industrial in Westlink Two,3369,312.99,445,Tuas (D22),[],0,1500000
+1752,Retail in Spazio @ Kovan,786,73.02,2265,Sengkang (D19),"['Loading bay', 'Column free', '24 hr access', 'Pantry', 'Car park']",5,1780000
+1753,Retail in Stars Of Kovan,440,40.88,5195,Sengkang (D19),['Air conditioning'],1,2286000
+1754,Retail in Stars Of Kovan,441,40.97,5184,Sengkang (D19),['Column free'],1,2286000
+1755,Factory in Biztech Centre,1109,103.03,1080,Paya Lebar (D14),[],0,1197720
+1756,Factory in Biztech Centre,969,90.02,1080,Paya Lebar (D14),[],0,1046520
+1757,Office in Paya Lebar Square,538,49.98,2150,Paya Lebar (D14),[],0,1156800
+1758,Land with Building in Frankel Estate,3406,316.43,1617,Marine Parade (D15),[],0,5508888
+1759,Factory in M-Space,1671,155.24,957,Woodlands (D25),"['Loading bay', 'Security access', 'Car park', 'Pantry', '24 hr access', 'Air conditioning', 'Kitchen']",7,1598888
+1760,Retail in Concorde Shopping Centre,302,28.06,2252,Commonwealth (D3),"['Air conditioning', 'Column free', '24 hr access', 'Pantry', 'Car park']",5,680000
+1761,Retail in Royal Square At Novena,570,52.95,5123,Toa Payoh (D12),"['Air conditioning', 'Car park', 'Pantry']",3,2920000
+1762,Factory in Primz Bizhub,1162,107.95,482,Woodlands (D25),"['Column free', 'Handicap friendly', 'Security access', '24 hr access', 'Car park']",5,560000
+1763,Factory in North Spring Bizhub,22367,"2,077.96",492,Yishun (D27),[],0,11000000
+1764,General Industrial in Harvest @ Woodlands,1906,177.07,393,Yishun (D27),"['Bath room', 'Handicap friendly', 'Column free', 'Car park', '24 hr access', 'Large floor plate']",6,750000
+1765,Factory in Harvest @ Woodlands,2024,188.04,445,Yishun (D27),"['Loading bay', 'Handicap friendly', 'Column free', 'Car park', '24 hr access', 'Large floor plate']",6,900000
+1766,Retail in Oxley Tower,194,18.02,6701,Marina (D1),"['Air conditioning', 'Water trap']",2,1300000
+1767,Retail in The Arcade,291,27.03,9622,Marina (D1),"['Air conditioning', 'Grease trap']",2,2800000
+1768,Retail in People's Park Complex,452,41.99,6416,Marina (D1),[],0,2900000
+1769,General Industrial in Eunos Technolink,2982,277.04,436,Paya Lebar (D14),[],0,1300000
+1770,General Industrial in Northstar @ AMK,5296,492.01,563,Thomson (D20),[],0,2980000
+1771,Factory in Pioneer Junction,1507,140,239,Tuas (D22),[],0,360000
+1772,Office in Vision Exchange,517,48.03,2484,Tuas (D22),"['Column free', 'Air conditioning', 'Cctv', '24 hr access', 'Large floor plate']",5,1284000
+1773,Office in Woods Square,560,52.03,1944,Woodlands (D25),[],0,1088888
+1774,Warehouse in Tuas View Link,327433,"30,419.51",373,Tuas (D22),"['Loading bay', '24 hr access', 'Large floor plate']",3,122000000
+1775,Office in Woods Square,36037,"3,347.95",2220,Woodlands (D25),"['Security access', '24 hr access', 'Large floor plate', 'Car park']",4,80000000
+1776,Warehouse in The Westcom,3079,286.05,247,Tuas (D22),"['Bath room', 'Chilled water supply', '24 hr access', 'Car park']",4,760000
+1777,Factory in 33 Kallang Place,13651,"1,268.22",132,Toa Payoh (D12),"['Air conditioning', 'Loading bay', 'Meeting rooms', '24 hr access', 'Car park']",5,1800000
+1778,Retail in Golden Mile Tower,194,18.02,1536,Rochor (D7),['Air conditioning'],1,298000
+1779,Retail in East Payoh Palm,452,41.99,2655,Toa Payoh (D12),['Air conditioning'],1,1200000
+1780,Factory in Gordon Warehouse Building,1646,152.92,258,Paya Lebar (D14),['Air conditioning'],1,425000
+1781,Factory in T99,8310,772.02,193,Tuas (D22),[],0,1600000
+1782,Retail in The Citron Residences,474,44.04,2108,Serangoon Rd (D8),[],0,999000
+1783,Factory in T99,8310,772.02,193,Tuas (D22),[],0,1600000
+1784,General Industrial in Loyang Enterprise Building,6269,582.41,214,Changi Village (D17),[],0,1340000
+1785,Retail in OG Orchard,44315,"4,117",10155,River Valley (D9),"['Broadband', 'Cctv', 'Pantry', '24 hr access', 'Large floor plate', 'Air conditioning', 'Water trap']",7,450000000
+1786,Showroom in Sindo Industrial Building,3326,309,177,Potong Pasir (D13),"['Column free', 'Loading bay', 'Cctv', '24 hr access', 'Car park']",5,588000
+1787,Shophouse in The Promenade @ Pelikat,183,17,2896,Sengkang (D19),"['Loading bay', 'Air conditioning', 'Column free', '24 hr access', 'Car park']",5,530000
+1788,Office in Paya Lebar Square,538,49.98,2045,Paya Lebar (D14),['Air conditioning'],1,1100000
+1789,Shophouse in 828 Tampines Street 81,1657,153.94,2293,Tampines (D18),"['Bath room', 'Column free', 'Loading bay', 'Pantry', 'Car park', '24 hr access', 'Large floor plate', 'Air conditioning']",8,3800000
+1790,Retail in Cuppage Plaza,398,36.98,4146,River Valley (D9),['24 hr access'],1,1650000
+1791,Shophouse in 711 Ang Mo Kio Avenue 8,520,48.31,4615,Thomson (D20),"['Loading bay', 'Column free', 'Bath room', 'Car park', '24 hr access', 'Large floor plate', 'Air conditioning', 'Water trap']",8,2400000
+1792,Factory in One Commonwealth,1437,133.5,473,Commonwealth (D3),[],0,680000
+1793,Factory in Shine@Tuas South,1786,165.92,266,Tuas (D22),"['Air conditioning', 'Security access']",2,475000
+1794,Factory in West Star,2196,204.01,250,Tuas (D22),"['Air conditioning', 'Security access']",2,550000
+1795,Factory in CT FoodChain,3186,295.99,892,Clementi (D5),"['Air conditioning', 'Security access']",2,2841950
+1796,General Industrial in Midview City,1378,128.02,980,Thomson (D20),"['Bath room', 'Handicap friendly', 'Column free', 'Pantry', '24 hr access', 'Air conditioning']",6,1350000
+1797,Factory in Admiralty Industrial Park,1346,125.05,370,Yishun (D27),"['Loading bay', 'Handicap friendly', 'Column free', 'Car park', '24 hr access', 'Backup generator']",6,498000
+1798,Food & Beverage in Enterprise One,10409,967.03,1441,Paya Lebar (D14),"['Chilled water supply', 'Loading bay', 'Water trap', 'Car park', 'Kitchen']",5,15000000
+1799,Factory in Citrine Foodland,1765,163.97,1983,Sengkang (D19),"['Loading bay', 'Column free', 'Grease trap', 'Cctv', 'Car park', '24 hr access', 'Large floor plate', 'Security access']",8,3500000
+1800,General Industrial in Centropod @ Changi,474,44.04,1814,Paya Lebar (D14),[],0,860000
+1801,Retail in Centropod @ Changi,474,44.04,1814,Paya Lebar (D14),[],0,860000
+1802,Shophouse in Oxley Tower,140,13.01,5357,Marina (D1),"['Loading bay', 'Column free', 'Chilled water supply', 'Broadband', 'Car park', 'Air conditioning', 'Water trap']",7,750000
+1803,Land with Building in The Woods,4004,371.98,524,Tuas (D22),[],0,2100000
+1804,Retail in Indus Garden,1270,117.99,1220,Commonwealth (D3),[],0,1550000
+1805,Industrial Office in One Commonwealth,1421,132.02,479,Commonwealth (D3),"['Air conditioning', 'Bath room', '24 hr access']",3,680000
+1806,Industrial Office in Eco-Tech @ Sunview,2609,242.38,172,Tuas (D22),"['Bath room', '24 hr access']",2,448000
+1807,Retail in The Citron Residences,527,48.96,2941,Serangoon Rd (D8),"['Air conditioning', 'Bath room', 'Cctv', '24 hr access']",4,1550000
+1808,Office in Chinatown Point,1055,98.01,1896,Marina (D1),"['Bath room', 'Column free', 'Broadband', 'Car park', '24 hr access', 'Large floor plate', 'Air conditioning']",7,2000000
+1809,Shophouse in HDB-Woodlands,1400,130.06,1500,Woodlands (D25),[],0,2100000
+1810,Factory in CT FoodChain,3272,303.98,917,Clementi (D5),"['Large floor plate', 'Kitchen']",2,3000000
+1811,Shophouse in View at Kismis,183,17,3514,Upper Bukit Timah (D21),[],0,643000
+1812,Retail in Thomson V Two,1119,103.96,1877,Thomson (D20),"['Grease trap', 'Water trap', 'Air conditioning', 'Car park', 'Kitchen']",5,2100000
+1813,Office in Midview City,1642,152.55,556,Thomson (D20),"['Air conditioning', 'Bath room', 'Loading bay', 'Car park']",4,913000
+1814,Retail in Havelock2,237,22.02,3165,Marina (D1),[],0,750000
+1815,Factory in First Centre,1851,171.96,556,Sengkang (D19),[],0,1030000
+1816,Warehouse in Link @ AMK,4306,400.04,557,Thomson (D20),['Loading bay'],1,2400000
+1817,Warehouse in Link @ AMK,2153,200.02,460,Thomson (D20),['Loading bay'],1,990000
+1818,Retail in Avila Gardens,355,32.98,3099,Changi Village (D17),[],0,1100000
+1819,Factory in Apex @ Henderson,2777,257.99,954,Commonwealth (D3),[],0,2650000
+1820,Retail in Far East Plaza,183,17,7104,River Valley (D9),[],0,1300000
+1821,Factory in The Splendour,8439,784.01,296,Choa Chu Kang (D23),['Air conditioning'],1,2500000
+1822,Office in Plus,1066,99.03,3045,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,3245981
+1823,Office in Prudential Tower,12195,"1,132.95",3100,Marina (D1),"['Loading bay', 'Air conditioning', 'Cctv', 'Car park']",4,37804500
+1824,Office in Plus,1346,125.05,3086,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,4153239
+1825,Office in Plus,2368,219.99,2963,Marina (D1),[],0,7017076
+1826,Office in Prudential Tower,5102,473.99,3100,Marina (D1),"['Loading bay', 'Air conditioning', 'Cctv', 'Car park']",4,15816200
+1827,Office in Plus,2304,214.05,3272,Marina (D1),"['Loading bay', 'Air conditioning', 'Cctv', 'Car park']",4,7537855
+1828,Office in Suntec City Towers,5188,481.98,3300,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,17120400
+1829,Office in Plus,1334,123.93,3040,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,4055768
+1830,Office in Plus,1647,153.01,3258,Marina (D1),"['Air conditioning', 'Cctv']",2,5365883
+1831,Office in Eon Shenton,1259,116.96,2500,Tanjong Pagar (D2),"['Air conditioning', 'Cctv', 'Car park']",3,3147500
+1832,Office in Suntec City Towers,1615,150.04,2700,Marina (D1),"['Backup generator', 'Air conditioning', 'Cctv', 'Car park']",4,4360500
+1833,Office in Suntec City Towers,11743,"1,090.96",3300,Marina (D1),"['Backup generator', 'Air conditioning', 'Bath room', 'Cctv', 'Car park']",5,38751900
+1834,Office in The Central,926,86.03,2646,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,2450000
+1835,Office in Prudential Tower,6211,577.02,3100,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,19254100
+1836,Office in Prudential Tower,4435,412.02,3100,Marina (D1),"['Loading bay', 'Air conditioning', 'Cctv', 'Car park']",4,13748500
+1837,Office in Suntec City Towers,3498,324.97,3202,Marina (D1),"['Backup generator', 'Air conditioning', 'Cctv', 'Car park']",4,11200000
+1838,Office in Plus,3617,336.03,3046,Marina (D1),"['Air conditioning', 'Cctv', 'Car park', 'Large floor plate', 'Meeting rooms']",5,11016662
+1839,Office in Suntec City Towers,6414,595.88,3300,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,21166200
+1840,Office in The Central,883,82.03,3249,Marina (D1),"['Air conditioning', 'Cctv']",2,2868888
+1841,Office in Prudential Tower,11614,"1,078.98",3100,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,36003400
+1842,Office in Singapore Business Federation Center,700,65.03,3000,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,2100000
+1843,Industrial Office in UB. One,1658,154.03,736,Paya Lebar (D14),"['Bath room', 'Security access', 'Cctv', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Air conditioning']",8,1220000
+1844,Office in Peninsula Plaza,1270,117.99,2106,Clarke Quay (D6),"['Air conditioning', 'Cctv', 'Car park', 'Pantry']",4,2675000
+1845,Office in Plus,786,73.02,2988,Marina (D1),[],0,2348421
+1846,Office in Plus,1098,102.01,3311,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,3635072
+1847,Office in Plus,3477,323.02,3088,Marina (D1),"['Air conditioning', 'Cctv', 'Car park']",3,10736419
+1848,Retail in WIS @ Changi,323,30.01,4892,Paya Lebar (D14),"['Bath room', 'Security access', 'Grease trap', 'Cctv', 'Car park', 'Av equipment', '24 hr access', 'Meeting rooms']",8,1580000
+1849,Factory in Pioneer Junction,1507,140,239,Tuas (D22),[],0,360000
+1850,Office in One North Bridge / High Street Centre,635,58.99,2047,Clarke Quay (D6),[],0,1300000
+1851,Retail in Sim Lim Square,269,24.99,5204,Rochor (D7),"['Loading bay', 'Column free', 'Car park']",3,1400000
+1852,Retail in 39 Kinta Road,1151,106.93,4778,Serangoon Rd (D8),[],0,5500000
+1853,Retail in Avila Gardens,355,32.98,3099,Changi Village (D17),[],0,1100000
+1854,Shophouse in Frankel Estate,3272,303.98,1830,Marine Parade (D15),[],0,5988888
+1855,Office in Suntec City Towers,3606,335.01,2750,Marina (D1),"['Cctv', 'Car park']",2,9916500
+1856,Shophouse in Frankel Estate,3272,303.98,1828,Marine Parade (D15),[],0,5980000
+1857,Retail in Stars Of Kovan,753,69.96,4843,Sengkang (D19),[],0,3647000
+1858,Retail in 3 Tessensohn Road,506,47.01,3091,Serangoon Rd (D8),[],0,1564000
+1859,Shophouse in Frankel Estate,3272,303.98,1830,Marine Parade (D15),['Air conditioning'],1,5988888
+1860,Shophouse in Bishan Green,1572,146.04,1781,Thomson (D20),[],0,2800000
+1861,Retail in 1953,786,73.02,3501,Serangoon Rd (D8),[],0,2752000
+1862,Shophouse in 415 Pandan Gardens,650,60.39,1692,Tuas (D22),[],0,1100000
+1863,Shophouse in 539 Bedok North Street 3,1460,135.64,1849,Upper East Coast (D16),[],0,2700000
+1864,Retail in One Dusun Residences,172,15.98,5523,Toa Payoh (D12),[],0,950000
+1865,Retail in One Dusun Residences,182,16.91,9341,Toa Payoh (D12),[],0,1700000
+1866,General Industrial in Enterprise Hub,5995,556.95,332,Tuas (D22),[],0,1990000
+1867,Shophouse in Kim Keat House,3131,290.88,3992,Toa Payoh (D12),[],0,12500000
+1868,Retail in Newest,398,36.98,3744,Clementi (D5),[],0,1490000
+1869,Factory in Da Jin Factory Building,2271,210.98,771,Sengkang (D19),[],0,1750000
+1870,Factory in Tagore 8,2971,276.01,623,Upper Thomson (D26),"['Bath room', 'Handicap friendly', 'Security access', 'Broadband', 'Grease trap', 'Cctv', 'Loading bay', 'Car park']",8,1850866
+1871,Retail in The Commerze @ Irving,450,41.81,1400,Potong Pasir (D13),"['24 hr access', 'Air conditioning', 'Cctv', 'It support', 'Car park']",5,630000
+1872,General Industrial in Midview City,1496,138.98,735,Thomson (D20),"['Bath room', 'Broadband', 'Car park', 'Pantry', '24 hr access', 'Air conditioning']",6,1100000
+1873,Retail in Sim Lim Tower,463,43.01,3000,Serangoon Rd (D8),"['Column free', 'Air conditioning', 'Security access', '24 hr access', 'Car park']",5,1389000
+1874,Warehouse in Gordon Warehouse Building,7010,651.25,314,Paya Lebar (D14),"['Loading bay', 'Security access', 'Cctv', 'Car park', '24 hr access', 'Large floor plate']",6,2200000
+1875,Office in Feng Ming Building,4852,450.77,1340,Serangoon Rd (D8),[],0,6500000
+1876,Retail in Centropod @ Changi,162,15.05,3938,Paya Lebar (D14),"['Loading bay', 'Column free', 'Broadband', 'Cctv', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms']",8,638000
+1877,Office in Suntec City Towers,10097,938.04,3763,Marina (D1),[],0,38000000
+1878,Office in Suntec City Towers,6168,573.03,2999,Marina (D1),[],0,18500000
+1879,General Industrial in Kim Chuan Terrace,9805,910.91,1836,Sengkang (D19),[],0,18000000
+1880,Retail in Singapore Business Federation Center,710,65.96,3380,Marina (D1),[],0,2400000
+1881,Factory in 7 Mandai Estate,1787,166.02,1367,Woodlands (D25),[],0,2443000
+1882,Retail in Burlington Square,334,31.03,3743,Rochor (D7),"['Air conditioning', '24 hr access']",2,1250000
+1883,General Industrial in Oxley Bizhub,1023,95.04,684,Paya Lebar (D14),"['Bath room', 'Handicap friendly', 'Loading bay', 'Car park', '24 hr access', 'Meeting rooms', 'Air conditioning']",7,700000
+1884,Shophouse in WIS @ Changi,323,30.01,3251,Paya Lebar (D14),"['Air conditioning', 'Car park']",2,1050000
+1885,Retail in Bukit Timah Shopping Centre,344,31.96,3599,Upper Bukit Timah (D21),"['Air conditioning', 'Water trap', 'Secretarial services', 'Car park']",4,1238000
+1886,Office in Centrium Square,710,65.96,2817,Serangoon Rd (D8),"['Bath room', 'Column free', '24 hr access', 'Car park']",4,2000000
+1887,Office in Oxley Tower,1163,108.05,3095,Marina (D1),[],0,3600000
+1888,Factory in Mandai Connection,1711,158.96,292,Woodlands (D25),"['Car park', '24 hr access']",2,500000
+1889,General Industrial in Vertex,2239,208.01,491,Paya Lebar (D14),"['Loading bay', 'Handicap friendly', 'Column free', 'Car park', 'Pantry', 'Cat 5/6 cabling', '24 hr access', 'Meeting rooms']",8,1100000
+1890,Factory in Oxley Bizhub 2,1916,178,568,Paya Lebar (D14),"['Air conditioning', 'Bath room', 'Cctv', '24 hr access']",4,1088000
+1891,Office in Woods Square,560,52.03,1860,Woodlands (D25),"['Loading bay', 'Security access', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Large floor plate', 'Turnstile']",8,1041858
+1892,Factory in Wcega Tower,1044,96.99,556,Choa Chu Kang (D23),[],0,580000
+1893,Shophouse in 201D Tampines Street 21,1668,154.96,1978,Tampines (D18),"['24 hr access', 'Pantry', 'Kitchen']",3,3300000
+1894,Office in Singapore Business Federation Center,753,69.96,3386,Marina (D1),[],0,2550000
+1895,Office in Eon Shenton,1109,103.03,2500,Tanjong Pagar (D2),"['Security access', 'Air conditioning', 'Column free']",3,2772500
+1896,Shophouse in Duxton Road,9000,836.13,2167,Tanjong Pagar (D2),['24 hr access'],1,19500000
+1897,Shophouse in Bukit Pasoh Conservation Area,4020,373.47,3980,Tanjong Pagar (D2),[],0,16000000
+1898,General Industrial in Hola Centre,1625,150.97,431,Paya Lebar (D14),"['Bath room', '24 hr access', 'Car park']",3,700000
+1899,Factory in Agrow Building,3121,289.95,801,Paya Lebar (D14),[],0,2500000
+1900,Shophouse in HDB-Bukit Batok,2314,214.98,1210,Choa Chu Kang (D23),[],0,2800000
+1901,Factory in Loyang Industrial Estate,48533,"4,508.86",175,Changi Village (D17),"['Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Air conditioning', 'Kitchen']",6,8500000
+1902,Retail in Peninsula Plaza,624,57.97,4087,Clarke Quay (D6),"['Loading bay', 'Air conditioning', 'Column free', '24 hr access', 'Car park']",5,2550000
+1903,Retail in The Daffodil,560,52.03,2089,Upper East Coast (D16),"['Bath room', 'Car park', 'Pantry', '24 hr access', 'Air conditioning', 'Kitchen']",6,1170000
+1904,Retail in Peninsula Plaza,581,53.98,5336,Clarke Quay (D6),"['Air conditioning', 'Column free', '24 hr access', 'Car park']",4,3100000
+1905,General Industrial in Oxley Bizhub,947,87.98,818,Paya Lebar (D14),"['Loading bay', 'Column free', '24 hr access', 'Car park']",4,775000
+1906,General Industrial in Oxley Bizhub,998,92.72,837,Paya Lebar (D14),"['Loading bay', 'Column free', '24 hr access', 'Car park']",4,835000
+1907,Retail in Bayshore Park,441,40.97,2721,Upper East Coast (D16),"['Air conditioning', '24 hr access', 'Car park', 'Kitchen']",4,1200000
+1908,Retail in Peninsula Plaza,431,40.04,2320,Clarke Quay (D6),"['Loading bay', 'Security access', 'Car park', '24 hr access', 'Column free', 'Air conditioning']",6,999999
+1909,Retail in Peninsula Plaza,484,44.97,4132,Clarke Quay (D6),"['Air conditioning', 'Meeting rooms', 'Loading bay', '24 hr access', 'Car park']",5,1999999
+1910,Retail in Peninsula Plaza,463,43.01,4320,Clarke Quay (D6),"['Air conditioning', 'Loading bay', '24 hr access', 'Car park']",4,2000000
+1911,Office in Peninsula Plaza,1485,137.96,2492,Clarke Quay (D6),"['Loading bay', 'Air conditioning', 'Column free', '24 hr access', 'Car park']",5,3700000
+1912,Office in Plus,786,73.02,2988,Marina (D1),"['Air conditioning', 'Security access']",2,2348422
+1913,Factory in Citrine Foodland,1765,163.97,1813,Sengkang (D19),"['Cctv', '24 hr access', 'Large floor plate', 'Car park']",4,3200000
+1914,Shophouse in 1953,732,68,3272,Serangoon Rd (D8),"['Air conditioning', 'Column free', 'Car park']",3,2395000
+1915,General Industrial in Oxley Bizhub 2,1900,176.52,579,Paya Lebar (D14),"['Air conditioning', 'Cat 5/6 cabling', 'Loading bay', 'Car park']",4,1100000
+1916,Factory in Citrine Foodland,3627,336.96,882,Sengkang (D19),"['Air conditioning', 'Security access', 'Loading bay']",3,3200000
+1917,Factory in Woodlands Industrial Xchange,1722,159.98,305,Woodlands (D25),[],0,525000
+1918,General Industrial in Vertex,4478,416.02,509,Paya Lebar (D14),"['Bath room', 'Column free', 'Broadband', 'Car park', 'Pantry', 'Cat 5/6 cabling', '24 hr access', 'Server room']",8,2280000
+1919,Factory in Vertex,6717,624.03,503,Paya Lebar (D14),"['Loading bay', 'Column free', 'Car park', 'Pantry', 'Cat 5/6 cabling', '24 hr access', 'Large floor plate', 'Meeting rooms']",8,3380000
+1920,Shophouse in 1953,786,73.02,3501,Serangoon Rd (D8),[],0,2752000
+1921,Retail in Alexandra Central,161,14.96,8075,Commonwealth (D3),['Car park'],1,1300000
+1922,Retail in Alexandra Central,161,14.96,8385,Commonwealth (D3),"['Air conditioning', 'Cctv', 'Bath room', 'Loading bay', 'Car park']",5,1350000
+1923,Retail in The Midtown,786,73.02,3181,Sengkang (D19),"['Bath room', 'Grease trap', 'Car park', '24 hr access', 'Air conditioning', 'Water trap']",6,2500000
+1924,Factory in Eco-Tech @ Sunview,4994,463.96,270,Tuas (D22),[],0,1350000
+1925,Retail in HDB-Bukit Merah,3680,341.88,1300,Commonwealth (D3),[],0,4784000
+1926,General Industrial in Enterprise Hub,4520,419.92,277,Tuas (D22),"['Column free', '24 hr access', 'Car park']",3,1250000
+1927,Warehouse in 8A Jalan Besut,16200,"1,505.03",1019,Tuas (D22),"['Backup generator', 'Air conditioning', '24 hr access']",3,16499999
+1928,Shophouse in 462 Tampines Street 44,1475,137.03,1186,Tampines (D18),"['Bath room', 'Column free', 'Broadband', '24 hr access', 'Air conditioning', 'Kitchen']",6,1750000
+1929,Retail in Sim Lim Tower,710,65.96,3169,Serangoon Rd (D8),[],0,2250000
+1930,Retail in Sim Lim Tower,710,65.96,2958,Serangoon Rd (D8),[],0,2099888
+1931,Factory in Proxima@Gambas,1776,165,242,Yishun (D27),[],0,430000
+1932,Factory in Proxima@Gambas,1776,165,270,Yishun (D27),[],0,480000
+1933,Factory in Proxima@Gambas,1797,166.95,250,Yishun (D27),[],0,450000
+1934,Factory in Proxima@Gambas,2368,219.99,291,Yishun (D27),[],0,690000
+1935,Retail in Novena Regency,990,91.97,8521,Novena (D11),['Air conditioning'],1,8435790
+1936,General Industrial in Link @ AMK,2153,200.02,766,Thomson (D20),"['Air conditioning', 'Column free', 'Car park', 'Pantry']",4,1650000
+1937,Factory in E9 Premium,2896,269.05,328,Yishun (D27),[],0,949888
+1938,Shophouse in Jalan Kembangan,3240,301.01,1111,Paya Lebar (D14),"['Air conditioning', '24 hr access', 'Car park', 'Kitchen']",4,3600000
+1939,Retail in Oxley Tower,3025,281.03,3636,Marina (D1),['Air conditioning'],1,11000000
+1940,Warehouse in Oxley Bizhub,1141,106,666,Paya Lebar (D14),[],0,760000
+1941,Retail in Stars Of Kovan,495,45.99,6313,Sengkang (D19),"['Air conditioning', '24 hr access', 'Car park']",3,3125000
+1942,Retail in One Dusun Residences,172,15.98,5523,Toa Payoh (D12),[],0,950000
+1943,Retail in Bukit Timah Plaza,450,41.81,2844,Upper Bukit Timah (D21),['Cctv'],1,1280000
+1944,General Industrial in Unity Centre,2108,195.84,360,Choa Chu Kang (D23),[],0,758000
+1945,Factory in Space 21,2433,226.03,820,Paya Lebar (D14),[],0,1995000
+1946,Factory in Premier @ Kaki Bukit,1098,102.01,537,Paya Lebar (D14),[],0,590000
+1947,Factory in Northstar @ AMK,1454,135.08,516,Thomson (D20),[],0,750000
+1948,Retail in One Dusun Residences,22,2.04,44545,Toa Payoh (D12),[],0,980000
+1949,Factory in E-Centre @ Redhill,1044,96.99,671,Commonwealth (D3),[],0,700000
+1950,Shophouse in Desker Road Conservation Area,2636,244.89,1396,Serangoon Rd (D8),['Air conditioning'],1,3680000
+1951,Shophouse in Toa Payoh Court,1399,129.97,1108,Toa Payoh (D12),[],0,1550000
+1952,Factory in E-Centre @ Redhill,1765,163.97,656,Commonwealth (D3),[],0,1158000
+1953,Retail in People's Park Complex,452,41.99,6549,Marina (D1),"['Handicap friendly', 'Cctv', 'Car park']",3,2960000
+1954,Shophouse in HDB-Bukit Merah,3680,341.88,1300,Commonwealth (D3),"['Air conditioning', 'Car park']",2,4784000
+1955,General Industrial in 9 Ubi Link,61999,"5,759.89",194,Paya Lebar (D14),"['Air conditioning', 'Car park']",2,12000000
+1956,General Industrial in 8B @ Admiralty,1625,150.97,332,Yishun (D27),"['Loading bay', 'Car park']",2,540000
+1957,Retail in Far East Plaza,312,28.99,5449,River Valley (D9),"['Air conditioning', 'Cctv']",2,1700000
+1958,Office in Eon Shenton,8406,780.94,3000,Tanjong Pagar (D2),"['Bath room', 'Air conditioning', 'Pantry']",3,25218000
+1959,Retail in Peninsula Plaza,366,34,5055,Clarke Quay (D6),['Air conditioning'],1,1850000
+1960,Shophouse in Desker Road,1226,113.9,3018,Serangoon Rd (D8),[],0,3700000
+1961,Office in PS100,474,44.04,2532,Tanjong Pagar (D2),[],0,1200000
+1962,Factory in Woodlands Industrial Xchange,1722,159.98,552,Woodlands (D25),[],0,950000
+1963,Retail in People's Park Complex,409,38,3790,Marina (D1),"['Air conditioning', 'Column free']",2,1550000
+1964,Retail in 265 South Bridge Road,3300,306.58,2485,Marina (D1),[],0,8200000
+1965,Factory in Primax,8040,746.94,728,Sengkang (D19),['Column free'],1,5850000
+1966,Factory in Primax,2680,248.98,728,Sengkang (D19),['Security access'],1,1950000
+1967,Factory in Primax,5360,497.96,728,Sengkang (D19),['Security access'],1,3900000
+1968,Factory in The Alexcier,1055,98.01,554,Commonwealth (D3),"['Security access', 'Air conditioning', 'Column free']",3,584470
+1969,Retail in The Plaza,1108,102.94,1670,Rochor (D7),"['Security access', 'Air conditioning', 'Column free']",3,1850000
+1970,Retail in Sago Street,2850,264.77,2982,Marina (D1),"['Air conditioning', 'Column free', 'Bath room']",3,8500000
+1971,Office in Eon Shenton,1700,157.94,2500,Tanjong Pagar (D2),"['Security access', 'Air conditioning', 'Column free']",3,4250000
+1972,Retail in People's Park Complex,452,41.99,6593,Marina (D1),"['Column free', 'Air conditioning', 'Security access']",3,2980000
+1973,Factory in First East Centre,2647,245.91,299,Paya Lebar (D14),['Column free'],1,791453
+1974,Retail in People's Park Complex,366,34,6011,Marina (D1),"['Security access', 'Air conditioning', 'Column free']",3,2200000
+1975,Retail in People's Park Complex,452,41.99,5509,Marina (D1),"['Air conditioning', 'Column free']",2,2490000
+1976,Retail in People's Park Complex,818,75.99,5425,Marina (D1),"['Air conditioning', 'Column free']",2,4438000
+1977,Factory in Shine@Tuas South,6996,649.95,406,Tuas (D22),"['Air conditioning', 'Security access']",2,2840376
+1978,Factory in One Pemimpin,2304,214.05,1172,Thomson (D20),[],0,2700000
+1979,Retail in Bukit Timah Plaza,1539,142.98,2274,Upper Bukit Timah (D21),[],0,3500000
+1980,Office in Crown Center,463,43.01,3996,Holland (D10),[],0,1850000
+1981,Retail in People's Park Centre,377,35.02,2653,Marina (D1),[],0,1000000
+1982,Factory in Ispace,1701,158.03,294,Tuas (D22),[],0,500000
+1983,Retail in Sim Lim Square,409,38,3374,Rochor (D7),[],0,1380000
+1984,Retail in Sim Lim Square,1227,113.99,3423,Rochor (D7),[],0,4200000
+1985,Retail in Crown Center,219,20.35,5023,Holland (D10),[],0,1100000
+1986,Retail in Crown Center,314,29.17,5000,Holland (D10),[],0,1570000
+1987,Retail in 9 Crane Road,1593,147.99,3453,Marine Parade (D15),[],0,5500000
+1988,Retail in Sommerville Park,469,43.57,2985,Holland (D10),"['Air conditioning', 'Security access']",2,1400000
+1989,Retail in The Flow,775,72,2387,Marine Parade (D15),['24 hr access'],1,1849650
+1990,General Industrial in Westlink Two,2390,222.04,251,Tuas (D22),"['Bath room', 'Car park']",2,600000
+1991,Office in Woods Square,560,52.03,1811,Woodlands (D25),"['Air conditioning', 'Cctv', '24 hr access']",3,1013900
+1992,Shop in Elias Mall,1054,97.92,4080,Tampines (D18),[],0,4300000
+1993,General Industrial in I-Lofts @ Changi,6550,608.51,234,Changi Village (D17),[],0,1529500
+1994,Shop in The Flow,710,65.96,5028,Marine Parade (D15),[],0,3569880
+1995,Factory in 5 Tuas South Street 1,17145,"1,592.82",181,Tuas (D22),"['Column free', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Bath room', 'Air conditioning']",7,3100000
+1996,General Industrial in Oxley Bizhub 2,2040,189.52,407,Paya Lebar (D14),[],0,830000
+1997,Office in Chinatown Point,2486,230.96,2000,Marina (D1),"['Column free', 'Reception services', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Air conditioning']",7,4972000
+1998,Warehouse in Gordon Warehouse Building,1539,142.98,280,Paya Lebar (D14),[],0,430920
+1999,Showroom in Oxley Bizhub,2303,213.96,695,Paya Lebar (D14),[],0,1600000
+2000,Factory in Cendex Centre,1539,142.98,832,Commonwealth (D3),[],0,1280000
+2001,Factory in Woodlands East Industrial Estate,1582,146.97,265,Woodlands (D25),"['Loading bay', 'Own chiller plant', 'Grease trap', '24 hr access', 'Air conditioning', 'Water trap', 'Kitchen']",7,420000
+2002,Retail in Hexacube,409,38,3664,Paya Lebar (D14),"['Air conditioning', 'Cctv']",2,1498550
+2003,Shophouse in Serangoon Road,1000,92.9,3900,Serangoon Rd (D8),[],0,3900000
+2004,Shophouse in 137 Teck Whye Lane,140,13.01,10714,Choa Chu Kang (D23),[],0,1500000
+2005,Shophouse in Kebun Baru Palm View,3400,315.87,1882,Thomson (D20),[],0,6400000
+2006,Shophouse in HDB-Jurong East,721,66.98,2497,Tuas (D22),[],0,1800000
+2007,Shophouse in The Beo Crescent,1800,167.23,1667,Commonwealth (D3),['Car park'],1,3000000
+2008,Retail in The Riverside Piazza,3583,332.87,1647,Marina (D1),[],0,5900000
+2009,Factory in Joo Koon Circle,94723,"8,800.05",189,Tuas (D22),"['Loading bay', 'Column free', 'Chilled water supply', 'Broadband', 'Cctv', 'Reception services', 'Car park', 'Pantry']",8,17900000
+2010,Factory in First East Centre,2648,246.01,283,Paya Lebar (D14),"['Air conditioning', 'Car park']",2,750000
+2011,Factory in Wintech Centre,1830,170.01,454,Paya Lebar (D14),[],0,830000
+2012,Retail in Sim Lim Square,344,31.96,5523,Rochor (D7),[],0,1900000
+2013,General Industrial in Space 21,2433,226.03,859,Paya Lebar (D14),"['Loading bay', 'Handicap friendly', 'Column free', 'Bath room', 'Car park', '24 hr access', 'Water trap']",7,2090000
+2014,Office in The Plaza,431,40.04,1856,Rochor (D7),"['Air conditioning', 'Water trap', 'Loading bay', 'Car park', 'Pantry']",5,800000
+2015,Factory in T5 @ Tampines,22347,"2,076.1",174,Tampines (D18),['Car park'],1,3880000
+2016,Factory in T5 @ Tampines,44714,"4,154.06",191,Tampines (D18),['Car park'],1,8560000
+2017,Retail in The Golden Landmark,333,30.94,2033,Rochor (D7),"['Loading bay', 'Security access', 'Broadband', 'Cctv', 'Reception services', 'Car park', 'Air conditioning']",7,677000
+2018,Retail in The Golden Landmark,323,30.01,1811,Rochor (D7),"['Bath room', 'Security access', 'Reception services', 'Cctv', 'Car park', '24 hr access', 'Air conditioning', 'Svc/smatv system']",8,585000
+2019,Retail in The Midtown,256,23.78,5039,Sengkang (D19),[],0,1290000
+2020,Retail in Pavilion Square,129,11.98,4264,Paya Lebar (D14),"['Column free', 'Cctv', 'Car park', 'Security access', 'Air conditioning', 'Water trap', 'Svc/smatv system']",7,550000
+2021,Office in Robinson Square,1174,109.07,3066,Marina (D1),[],0,3600000
+2022,Office in Robinson Square,1174,109.07,3152,Marina (D1),['Air conditioning'],1,3700000
+2023,Retail in People's Park Complex,388,36.05,5670,Marina (D1),"['Security access', 'Air conditioning', 'Column free', 'Car park']",4,2200000
+2024,General Industrial in Intrepid Warehouse Complex,9375,870.97,213,Paya Lebar (D14),"['Loading bay', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Air conditioning']",6,2000000
+2025,Factory in Premier @ Kaki Bukit,1593,147.99,584,Paya Lebar (D14),"['Bath room', 'Cctv', '24 hr access']",3,930000
+2026,Office in Woods Square,764,70.98,1912,Woodlands (D25),"['24 hr access', 'Air conditioning', 'Column free', 'Car park', 'Meeting rooms']",5,1460837
+2027,Office in Woods Square,1281,119.01,2073,Woodlands (D25),"['Column free', 'Chilled water supply', 'Broadband', 'Car park', 'Meeting rooms', 'Air conditioning']",6,2654986
+2028,Office in Giffard Mansion,507,47.1,1438,Toa Payoh (D12),[],0,729000
+2029,Factory in Pioneer Junction,1324,123,263,Tuas (D22),"['Loading bay', '24 hr access', 'Pantry']",3,348000
+2030,Factory in Pioneer Centre,1496,138.98,247,Tuas (D22),"['Broadband', 'Air conditioning', '24 hr access', 'Car park']",4,370000
+2031,Shophouse in Kebun Baru Palm View,1400,130.06,1786,Thomson (D20),[],0,2500000
+2032,Shophouse in 340 Ang Mo Kio Avenue 1,1520,141.21,1316,Thomson (D20),[],0,2000000
+2033,Office in Suntec City Mall,11840,"1,099.97",3700,Marina (D1),[],0,43808000
+2034,Office in Suntec City Towers,5683,527.97,2988,Marina (D1),[],0,16980805
+2035,General Industrial in Tuas View Place,11495,"1,067.92",357,Tuas (D22),[],0,4100000
+2036,Retail in Peninsula Plaza,334,31.03,2949,Clarke Quay (D6),"['Loading bay', 'Air conditioning', 'Column free', '24 hr access', 'Car park']",5,985000
+2037,Retail in Peninsula Plaza,334,31.03,4491,Clarke Quay (D6),"['Air conditioning', '24 hr access', 'Car park']",3,1500000
+2038,Retail in Peninsula Plaza,398,36.98,3392,Clarke Quay (D6),"['Loading bay', 'Air conditioning', 'Column free', '24 hr access', 'Car park']",5,1350000
+2039,Factory in CT Hub 2,1173,108.98,1407,Toa Payoh (D12),['24 hr access'],1,1650000
+2040,Factory in Food Xchange @ Admiralty,5584,518.77,453,Yishun (D27),"['Loading bay', 'Large floor plate', 'Kitchen']",3,2528888
+2041,General Industrial in Nordcom One,1711,158.96,269,Yishun (D27),"['Bath room', 'Loading bay', 'Large floor plate']",3,460000
+2042,Retail in Orchard Road,44315,"4,117",9026,River Valley (D9),['Large floor plate'],1,400000000
+2043,Shophouse in Jurong Gateway,2002,185.99,6494,Tuas (D22),[],0,13000000
+2044,Office in Singapore Business Federation Center,678,62.99,3510,Marina (D1),"['Turnstile', 'Air conditioning', 'Cctv', '24 hr access']",4,2380000
+2045,Office in The Central,635,58.99,2992,Marina (D1),"['Air conditioning', 'Bath room', 'Column free', '24 hr access']",4,1900000
+2046,Office in The Central,861,79.99,3194,Marina (D1),"['Air conditioning', 'Bath room', 'Cctv', '24 hr access', 'Pantry']",5,2750000
+2047,Office in The Central,624,57.97,2556,Marina (D1),"['Air conditioning', 'Bath room', 'Cctv', '24 hr access', 'Pantry']",5,1595000
+2048,Office in Singapore Business Federation Center,624,57.97,3397,Marina (D1),"['Turnstile', 'Air conditioning', 'Cctv', '24 hr access']",4,2120000
+2049,Office in The Central,2649,246.1,3352,Marina (D1),"['Column free', 'Air conditioning', 'Bath room', 'Cctv', '24 hr access']",5,8880000
+2050,Office in Ubi Techpark,1100,102.19,682,Paya Lebar (D14),[],0,750000
+2051,General Industrial in Genova Building,18325,"1,702.45",699,Toa Payoh (D12),[],0,12800000
+2052,Office in Rocca Balestier,2992,277.97,1320,Toa Payoh (D12),[],0,3950000
+2053,Factory in The Westcom,2841,263.94,246,Tuas (D22),[],0,700000
+2054,Retail in Bukit Timah Shopping Centre,248,23.04,3831,Upper Bukit Timah (D21),[],0,950000
+2055,Retail in KAP,743,69.03,4307,Upper Bukit Timah (D21),"['Loading bay', 'Handicap friendly', 'Column free', 'Chilled water supply', 'Broadband', 'Reception services', 'Cctv', 'Car park']",8,3200000
+2056,Office in One North Bridge / High Street Centre,635,58.99,2047,Clarke Quay (D6),[],0,1300000
+2057,Factory in Pioneer Junction,1410,130.99,227,Tuas (D22),[],0,320000
+2058,Retail in Golden Mile Tower,334,31.03,2036,Rochor (D7),[],0,680000
+2059,Retail in Spazio @ Kovan,657,61.04,1956,Sengkang (D19),[],0,1285000
+2060,Factory in West Star,2152,199.93,274,Tuas (D22),[],0,590000
+2061,Factory in T99,7664,712.01,215,Tuas (D22),[],0,1650000
+2062,Retail in Sim Lim Square,1496,138.98,3409,Rochor (D7),[],0,5100000
+2063,General Industrial in Techniques Centre,1141,106,508,Paya Lebar (D14),"['Air conditioning', '24 hr access', 'Pantry', 'Car park']",4,580000
+2064,Shophouse in HDB-Serangoon Estate,1335,124.03,2157,Sengkang (D19),"['Air conditioning', '24 hr access', 'Pantry']",3,2880000
+2065,Shophouse in Bedok Town Centre,1593,147.99,2950,Upper East Coast (D16),[],0,4700000
+2066,Factory in Ark @ KB,3100,288,193,Paya Lebar (D14),"['Loading bay', 'Handicap friendly', 'Column free', 'Car park', '24 hr access', 'Large floor plate']",6,599000
+2067,Factory in Premier @ Kaki Bukit,1583,147.07,682,Paya Lebar (D14),"['Loading bay', 'Handicap friendly', 'Column free', 'Car park', '24 hr access', 'Large floor plate']",6,1080000
+2068,Retail in Macpherson Mall,420,39.02,4021,Potong Pasir (D13),"['Loading bay', 'Handicap friendly', 'Column free', 'Car park', '24 hr access', 'Air conditioning']",6,1688888
+2069,Office in Paya Lebar Square,957,88.91,2079,Paya Lebar (D14),['Air conditioning'],1,1990000
+2070,Factory in Cpi Building,67941,"6,311.92",162,Tuas (D22),"['Bath room', '24 hr access', 'Dual power', 'Car park']",4,11000000
+2071,Shophouse in 535 Serangoon Road,4017,373.19,1543,Serangoon Rd (D8),"['Air conditioning', 'Grease trap', '24 hr access', 'Dual power', 'Car park']",5,6200000
+2072,General Industrial in The Spire,1658,154.03,452,Choa Chu Kang (D23),"['Bath room', 'Security access', 'Broadband', 'Reception services', 'Cctv', 'Car park', 'Secretarial services', 'Av equipment']",8,750000
+2073,Warehouse in Lip Hing Industrial Building,2182,202.71,825,Thomson (D20),"['Broadband', 'Air conditioning', 'Cctv', '24 hr access', 'Car park']",5,1800000
+2074,Retail in The Midtown,2358,219.07,3181,Sengkang (D19),"['Loading bay', 'Security access', 'Grease trap', 'Bath room', 'Car park', 'Air conditioning', 'Water trap', 'Kitchen']",8,7500000
+2075,Factory in Tag A,4693,435.99,682,Upper Thomson (D26),['24 hr access'],1,3200000
+2076,Shophouse in 846 Yishun Ring Road,390,36.23,7179,Yishun (D27),[],0,2800000
+2077,Shophouse in HDB-Serangoon Estate,124,11.52,29032,Sengkang (D19),[],0,3600000
+2078,Retail in The Promenade @ Pelikat,807,74.97,1239,Sengkang (D19),[],0,1000000
+2079,Retail in Pavilion Square,118,10.96,11186,Paya Lebar (D14),[],0,1320000
+2080,Office in Primz Bizhub,1184,110,506,Woodlands (D25),[],0,599000
+2081,General Industrial in Vertex,1464,136.01,587,Paya Lebar (D14),[],0,860000
+2082,Shophouse in Frankel Estate,3272,303.98,1830,Marine Parade (D15),"['Air conditioning', 'Bath room', 'Car park']",3,5988888
+2083,Shophouse in 502 Bishan Street 11,280,26.01,5643,Thomson (D20),[],0,1580000
+2084,Retail in 1 Serangoon North Avenue 1,484,44.97,2940,Sengkang (D19),"['Column free', '24 hr access', 'Car park']",3,1423000
+2085,Retail in Grandlink Square,205,19.05,2927,Paya Lebar (D14),"['Air conditioning', 'Water trap', 'Car park']",3,600000
+2086,Factory in Ark @ Gambas,1742,161.84,367,Yishun (D27),[],0,640000
+2087,Factory in Premier @ Kaki Bukit,1500,139.35,600,Paya Lebar (D14),[],0,900000
+2088,Shophouse in Kebun Baru Heights,1400,130.06,1207,Thomson (D20),[],0,1690000
+2089,Shophouse in 510 Bedok North Street 3,1550,144,1761,Upper East Coast (D16),[],0,2730000
+2090,Shophouse in Tiong Bahru Orchid,3530,327.95,2833,Commonwealth (D3),[],0,10000000
+2091,Retail in Le Regal,108,10.03,4167,Paya Lebar (D14),['Air conditioning'],1,450000
+2092,Retail in Kensington Square,344,31.96,7267,Sengkang (D19),[],0,2499999
+2093,General Industrial in E-Centre @ Redhill,1012,94.02,593,Commonwealth (D3),"['Loading bay', 'Air conditioning', 'Column free', '24 hr access', 'Car park']",5,600000
+2094,Factory in Bartley Biz Centre,4758,442.03,420,Paya Lebar (D14),"['Loading bay', 'Security access', 'Cctv', 'Car park', '24 hr access', 'Air conditioning']",6,2000000
+2095,Retail in The Midtown,958,89,4175,Sengkang (D19),"['Loading bay', 'Security access', 'Grease trap', 'Cctv', 'Car park', '24 hr access', 'Air conditioning', 'Water trap']",8,4000000
+2096,Office in Woods Square,570,52.95,2105,Woodlands (D25),[],0,1200000
+2097,Retail in HDB-Bukit Batok,1658,154.03,1508,Choa Chu Kang (D23),['Air conditioning'],1,2500000
+2098,Factory in Food Concept @ Pandan,8040,746.94,2029,Clementi (D5),"['Bath room', 'Security access', 'Broadband', 'Grease trap', 'Cctv', 'Car park', '24 hr access', 'Large floor plate']",8,16310680
+2099,Factory in Food Concept @ Pandan,2164,201.04,1695,Clementi (D5),"['Bath room', 'Security access', 'Broadband', 'Grease trap', 'Cctv', 'Car park', 'Pantry', '24 hr access']",8,3668164
+2100,Factory in Food Concept @ Pandan,2121,197.05,1667,Clementi (D5),"['Loading bay', 'Security access', 'Broadband', 'Grease trap', 'Bath room', 'Car park', '24 hr access', 'Large floor plate']",8,3534640
+2101,General Industrial in 61 Tuas Crescent,231583,"21,514.76",129,Tuas (D22),"['Bath room', 'Security access', 'Cctv', 'Car park', '24 hr access', 'Large floor plate', 'Meeting rooms', 'Loading bay']",8,29800000
+2102,Industrial Office in Eunos Techpark,17769,"1,650.79",467,Paya Lebar (D14),"['Bath room', 'Security access', 'Broadband', 'Reception services', 'Cctv', 'Car park', '24 hr access', 'Server room']",8,8300000
+2103,Industrial Office in Eunos Techpark,13100,"1,217.03",456,Paya Lebar (D14),"['Bath room', 'Handicap friendly', 'Security access', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Server room']",8,5980000
+2104,Industrial Office in Pan Malayan Warehouse,15264,"1,418.07",341,Paya Lebar (D14),"['Bath room', 'Column free', 'Broadband', 'Reception services', 'Cctv', 'Car park', '24 hr access', 'Large floor plate']",8,5200000
+2105,Industrial Office in Pan Malayan Warehouse,7675,713.03,339,Paya Lebar (D14),"['Bath room', 'Column free', 'Large floor plate', 'Broadband', 'Reception services', 'Cctv', 'Car park', '24 hr access']",8,2600000
+2106,Industrial Office in Sindo Industrial Estate,50888,"4,727.65",825,Upper Thomson (D26),"['Bath room', 'Column free', 'Broadband', 'Grease trap', 'Cctv', 'Car park', '24 hr access', 'Large floor plate']",8,42000000
+2107,Office in Eon Shenton,1700,157.94,3876,Tanjong Pagar (D2),"['Cctv', '24 hr access']",2,6588888
+2108,Factory in One Commonwealth,1421,132.02,502,Commonwealth (D3),[],0,713342
+2109,Factory in Harper Point,3438,319.4,3283,Potong Pasir (D13),[],0,11288000
+2110,Retail in 35 Lorong 11 Geylang,3200,297.29,1813,Paya Lebar (D14),[],0,5800000
+2111,Factory in Hillview Building,2486,230.96,655,Choa Chu Kang (D23),[],0,1628000
+2112,Retail in Roxy Square,409,38,3640,Marine Parade (D15),"['Air conditioning', 'Car park']",2,1488888
+2113,Shophouse in Boon Lay Shopping Centre,5318,494.06,1952,Tuas (D22),[],0,10380000
+2114,Shophouse in 571 Balestier Road,1780,165.37,1624,Toa Payoh (D12),[],0,2890000
+2115,Factory in The Westcom,3068,285.03,293,Tuas (D22),[],0,900000
+2116,Retail in Junction Nine,624,57.97,3659,Yishun (D27),[],0,2282999
+2117,Retail in Riverfront Residences,603,56.02,2784,Sengkang (D19),[],0,1678800
+2118,Factory in Biztech Centre,947,87.98,950,Paya Lebar (D14),[],0,899650
+2119,Shophouse in Arab Street,2000,185.81,3250,Rochor (D7),[],0,6500000
+2120,Factory in Biztech Centre,969,90.02,950,Paya Lebar (D14),[],0,920550
+2121,Retail in Junction Nine,452,41.99,3097,Yishun (D27),[],0,1400000
+2122,Factory in 7 Mandai Estate,1701,158.03,1274,Woodlands (D25),[],0,2167000
+2123,Retail in Junction Nine,301,27.96,4983,Yishun (D27),[],0,1500000
+2124,Factory in Oxley Bizhub,990,91.97,657,Paya Lebar (D14),[],0,650000
+2125,Shophouse in Arab Street,2000,185.81,2400,Rochor (D7),[],0,4800000
+2126,Shophouse in Hindoo Road,13970,"1,297.85",1689,Serangoon Rd (D8),[],0,23600000
+2127,Factory in Woodlands Industrial Park E1,1300,120.77,338,Yishun (D27),[],0,440000
+2128,Land with Building in Kent Ridge Hill Residences,2067,192.03,1455,Clementi (D5),"['Air conditioning', 'Bath room']",2,3008000
+2129,Factory in Loyang Industrial Estate,15338,"1,424.95",469,Changi Village (D17),"['Air conditioning', 'Car park', 'Pantry', 'Meeting rooms']",4,7200000
+2130,Retail in Queensway Shopping Centre/Queensway Tower,250,23.23,7280,Commonwealth (D3),[],0,1820000
+2131,Retail in The Midtown,785,72.93,3312,Sengkang (D19),['Grease trap'],1,2600000
+2132,Office in Plus,624,57.97,3654,Marina (D1),[],0,2280000
+2133,Retail in Hougang Green Shopping Mall,452,41.99,3429,Sengkang (D19),"['24 hr access', 'Car park']",2,1550000
+2134,Retail in The Bencoolen,151,14.03,5960,Rochor (D7),[],0,900000
+2135,Dormitory in Tannery Road,10261,953.28,1061,Potong Pasir (D13),[],0,10888000
+2136,Retail in JadeScape,495,45.99,3200,Thomson (D20),[],0,1584000
+2137,Retail in JadeScape,603,56.02,3200,Thomson (D20),[],0,1929600
+2138,Retail in Oxley Tower,215,19.97,6884,Marina (D1),"['Air conditioning', '24 hr access', 'Car park']",3,1480000
+2139,Factory in The Alexcier,1227,113.99,465,Commonwealth (D3),[],0,570000
+2140,Factory in E9 Premium,3002,278.89,416,Yishun (D27),[],0,1250000
+2141,Retail in Katong Shopping Centre,323,30.01,4489,Marine Parade (D15),[],0,1450000
+2142,Shophouse in Normanton Park,463,43.01,4250,Clementi (D5),"['Cctv', 'Bath room', 'Security access', 'Car park', '24 hr access']",5,1967750
+2143,Retail in 1953,700,65.03,3450,Serangoon Rd (D8),"['Bath room', '24 hr access']",2,2415000
+2144,Retail in Twin VEW,549,51,3000,Clementi (D5),"['Column free', 'Bath room', 'Security access', '24 hr access']",4,1647000
+2145,Office in Woods Square,560,52.03,1786,Woodlands (D25),"['Column free', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Security access', 'Air conditioning']",7,1000000
+2146,Office in Eon Shenton,1765,163.97,2266,Tanjong Pagar (D2),[],0,4000000
+2147,Office in Eon Shenton,3530,327.95,2550,Tanjong Pagar (D2),[],0,9000000
+2148,Retail in Oxley Tower,194,18.02,6082,Marina (D1),[],0,1180000
+2149,Office in Centropod @ Changi,689,64.01,1858,Paya Lebar (D14),"['Column free', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Security access', 'Air conditioning', 'Water trap']",8,1280000
+2150,Factory in Eunos Techpark,1324,123,438,Paya Lebar (D14),"['Loading bay', 'Column free', 'Air conditioning', 'Large floor plate', 'Meeting rooms']",5,580000
+2151,Food & Beverage in Oxley Tower,3025,281.03,3636,Marina (D1),[],0,11000000
+2152,Shophouse in Icon @ Pasir Panjang,721,66.98,4827,Clementi (D5),[],0,3480000
+2153,Shophouse in Icon @ Pasir Panjang,1076,99.96,1840,Clementi (D5),[],0,1980000
+2154,Factory in 7 Mandai Estate,1701,158.03,1274,Woodlands (D25),['24 hr access'],1,2167000
+2155,Office in Plus,624,57.97,3187,Marina (D1),[],0,1988888
+2156,Retail in Katong Shopping Centre,333,30.94,3754,Marine Parade (D15),[],0,1250000
+2157,Retail in 415 Pandan Gardens,650,60.39,1847,Tuas (D22),[],0,1200413
+2158,Office in 318 Lavender Street,4725,438.97,1740,Toa Payoh (D12),[],0,8222000
+2159,Factory in Apex @ Henderson,2723,252.97,837,Commonwealth (D3),[],0,2280000
+2160,Factory in Heng Loong Building,1923,178.65,325,Choa Chu Kang (D23),[],0,625000
+2161,Industrial Office in Wcega Tower,958,89,485,Choa Chu Kang (D23),"['Column free', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Air conditioning']",6,465000
+2162,Food & Beverage in Citrine Foodland,1765,163.97,1700,Sengkang (D19),[],0,3000000
+2163,Office in Paya Lebar Square,516,47.94,2093,Paya Lebar (D14),[],0,1080000
+2164,Industrial Office in Tradehub 21,1798,167.04,495,Tuas (D22),"['Air conditioning', '24 hr access', 'Pantry', 'Car park']",4,890000
+2165,Shophouse in Clementi Avenue 2 Shopping Centre,1610,149.57,1118,Clementi (D5),['Car park'],1,1800000
+2166,Shophouse in 509 Bedok North Street 3,1630,151.43,1221,Upper East Coast (D16),['Air conditioning'],1,1990000
+2167,Retail in Peninsula Plaza,400,37.16,2422,Clarke Quay (D6),[],0,968888
+2168,Factory in Gold Pine Industrial Building,1894,175.96,676,Potong Pasir (D13),[],0,1280000
+2169,Land only in Normanton Park,2110,196.03,1493,Clementi (D5),"['Bath room', 'Cctv', 'Car park', '24 hr access', 'Air conditioning', 'Kitchen']",6,3150000
+2170,Factory in Eunos Technolink,2830,262.92,406,Paya Lebar (D14),[],0,1150000
+2171,Retail in One Dusun Residences,187,17.37,4011,Toa Payoh (D12),[],0,750000
+2172,Retail in People's Park Complex,904,83.98,6542,Marina (D1),[],0,5913999
+2173,Retail in People's Park Complex,452,41.99,6542,Marina (D1),[],0,2956999
+2174,Office in The Central,929,86.31,2261,Marina (D1),[],0,2100000
+2175,Shophouse in Novelty Bizcentre,1864,173.17,966,Potong Pasir (D13),[],0,1800000
+2176,Factory in Kaki Bukit Industrial Park,4525,420.39,667,Paya Lebar (D14),[],0,3020000
+2177,Factory in Proxima@Gambas,1776,165,236,Yishun (D27),[],0,420000
+2178,Factory in Khong Guan Biscuit Factory,2467,229.19,1419,Potong Pasir (D13),"['Loading bay', 'Security access', 'Grease trap', 'Cctv', '24 hr access', 'Water trap', 'Kitchen']",7,3500000
+2179,Retail in Sim Lim Square,409,38,3178,Rochor (D7),"['Air conditioning', 'Loading bay', 'Car park', 'Large floor plate', 'Chilled water supply']",5,1300000
+2180,Shophouse in Clementi Avenue 2 Shopping Centre,1615,150.04,1176,Clementi (D5),[],0,1900000
+2181,Shophouse in Tanjong Pagar Plaza,610,56.67,3033,Tanjong Pagar (D2),[],0,1850000
+2182,Retail in East Village,215,19.97,3814,Upper East Coast (D16),[],0,820000
+2183,Retail in HDB-Bukit Merah,1485,137.96,1111,Telok Blangah (D4),"['Air conditioning', 'Bath room']",2,1650000
+2184,Retail in 14 Stanley Street,3481,323.4,4826,Marina (D1),[],0,16800000
+2185,Retail in New Bridge Road,4000,371.61,1500,Marina (D1),[],0,6000000
+2186,General Industrial in The Spire,1658,154.03,452,Choa Chu Kang (D23),"['Handicap friendly', 'Security access', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Air conditioning']",7,750000
+2187,Retail in Thomson V One,743,69.03,2692,Thomson (D20),"['Loading bay', 'Handicap friendly', 'Column free', 'Grease trap', '24 hr access', 'Large floor plate', 'Water trap', 'Kitchen']",8,1999888
+2188,Retail in Thomson V Two,174,16.17,2874,Thomson (D20),"['Handicap friendly', 'Water trap', 'Column free', '24 hr access', 'Large floor plate']",5,500000
+2189,Retail in The Plaza,1108,102.94,1760,Rochor (D7),"['Air conditioning', 'Column free', '24 hr access', 'Pantry', 'Car park']",5,1950000
+2190,Retail in Peninsula Plaza,581,53.98,5164,Clarke Quay (D6),[],0,3000000
+2191,Office in One North Bridge / High Street Centre,549,51,2277,Clarke Quay (D6),[],0,1250000
+2192,Retail in One North Bridge / High Street Centre,344,31.96,2180,Clarke Quay (D6),[],0,750000
+2193,Retail in One North Bridge / High Street Centre,377,35.02,1745,Clarke Quay (D6),[],0,658000
+2194,Retail in Peninsula Plaza,398,36.98,2400,Clarke Quay (D6),[],0,955200
+2195,Retail in One North Bridge / High Street Centre,377,35.02,1724,Clarke Quay (D6),[],0,650000
+2196,Retail in Peninsula Plaza,431,40.04,2320,Clarke Quay (D6),[],0,1000000
+2197,Retail in One North Bridge / High Street Centre,625,58.06,1696,Clarke Quay (D6),[],0,1060000
+2198,Retail in Peninsula Plaza,431,40.04,2320,Clarke Quay (D6),[],0,1000000
+2199,General Industrial in Westlink Two,3369,312.99,341,Tuas (D22),[],0,1150000
+2200,General Industrial in Eco-Tech @ Sunview,2605,242.01,184,Tuas (D22),"['Column free', 'Air conditioning', 'Loading bay', 'Car park']",4,480000
+2201,Shophouse in Little India Conservation Area,3200,297.29,1875,Serangoon Rd (D8),[],0,6000000
+2202,Factory in Unity Centre,4400,408.77,341,Choa Chu Kang (D23),[],0,1500113
+2203,Factory in Unity Centre,1151,106.93,389,Choa Chu Kang (D23),[],0,448113
+2204,Land only in Cashew Road,3047,283.08,1823,Choa Chu Kang (D23),[],0,5554403
+2205,Office in Woods Square,560,52.03,2066,Woodlands (D25),['24 hr access'],1,1157000
+2206,Retail in Singapore Business Federation Center,689,64.01,4064,Marina (D1),"['Air conditioning', 'Car park', '24 hr access']",3,2800000
+2207,Food & Beverage in Space 21,1701,158.03,3527,Paya Lebar (D14),[],0,6000000
+2208,Factory in Tagore Industrial Avenue,45000,"4,180.64",933,Upper Thomson (D26),[],0,42000000
+2209,Shophouse in City Gate,893,82.96,3527,Rochor (D7),[],0,3149611
+2210,Shophouse in City Gate,463,43.01,3674,Rochor (D7),[],0,1701000
+2211,Shophouse in City Gate,592,55,3152,Rochor (D7),[],0,1866000
+2212,Shophouse in City Gate,1808,167.97,4571,Rochor (D7),[],0,8265000
+2213,Retail in Singapore Business Federation Center,689,64.01,4064,Marina (D1),"['Air conditioning', 'Car park', '24 hr access']",3,2800000
+2214,General Industrial in One Commonwealth,1194,110.93,469,Commonwealth (D3),[],0,559986
+2215,Shophouse in HDB-Bukit Merah,3680,341.88,1300,Commonwealth (D3),[],0,4784000
+2216,Food & Beverage in Alexandra Central,442,41.06,7014,Commonwealth (D3),[],0,3100000
+2217,Shophouse in Stars Of Kovan,441,40.97,5556,Sengkang (D19),"['Air conditioning', 'Grease trap', '24 hr access', 'Car park']",4,2450000
+2218,General Industrial in Link @ AMK,2153,200.02,673,Thomson (D20),"['Air conditioning', 'Car park']",2,1450000
+2219,Retail in Sim Lim Square,301,27.96,5482,Rochor (D7),[],0,1650000
+2220,Shophouse in 4 Jalan Ayer,3800,353.03,1632,Paya Lebar (D14),"['Bath room', 'Handicap friendly', 'Security access', 'Cctv', 'Pantry', '24 hr access', 'Air conditioning', 'Water trap']",8,6200000
+2221,Office in The Plaza,312,28.99,1683,Rochor (D7),[],0,525000
+2222,Office in The Plaza,721,66.98,1620,Rochor (D7),[],0,1168000
+2223,Factory in Premier @ Kaki Bukit,3078,285.96,302,Paya Lebar (D14),[],0,929999
+2224,Food & Beverage in Gemini @ Sims,667,61.97,2069,Paya Lebar (D14),[],0,1380000
+2225,Food & Beverage in City Gate,560,52.03,5000,Rochor (D7),[],0,2800000
+2226,Factory in Cendex Centre,1539,142.98,747,Commonwealth (D3),[],0,1150000
+2227,Retail in Concorde Hotel And Shopping Mall,377,35.02,3660,River Valley (D9),[],0,1380000
+2228,Office in Goldhill Plaza,1216,112.97,2467,Novena (D11),[],0,3000000
+2229,Factory in West Star,2185,202.99,274,Tuas (D22),"['Loading bay', 'Security access', 'Bath room', 'Column free', '24 hr access']",5,599000
+2230,Retail in Bayshore Park,624,57.97,2324,Upper East Coast (D16),"['Bath room', 'Security access', 'Car park', '24 hr access', 'Air conditioning', 'Kitchen']",6,1450000
+2231,Office in Suntec City Towers,4000,371.61,2920,Marina (D1),"['Loading bay', 'Security access', 'Air conditioning', 'Large floor plate']",4,11680000
+2232,Office in Parklane Shopping Mall,500,46.45,1500,Rochor (D7),"['Air conditioning', 'Column free', 'Loading bay']",3,750000
+2233,Shophouse in Boon Keng Ville,1313,121.98,1523,Paya Lebar (D14),[],0,2000000
+2234,Retail in Queensway Shopping Centre/Queensway Tower,250,23.23,7400,Commonwealth (D3),[],0,1850000
+2235,Warehouse in Joo Seng Warehouse,3498,324.97,686,Potong Pasir (D13),[],0,2400000
+2236,Retail in The Adelphi,301,27.96,3987,Clarke Quay (D6),[],0,1200000
+2237,Retail in Bras Basah Complex,6555,608.98,2105,Rochor (D7),"['Cctv', '24 hr access']",2,13800000
+2238,Retail in 128 Serangoon North Avenue 1,1410,130.99,1525,Sengkang (D19),[],0,2150000
+2239,Retail in Textile Centre,350,32.52,1429,Rochor (D7),"['Air conditioning', 'Column free', '24 hr access', 'Car park']",4,500000
+2240,Factory in Kewalram House,2282,212,504,Commonwealth (D3),[],0,1150000
+2241,Retail in Pavilion Square,118,10.96,5076,Paya Lebar (D14),[],0,599000
+2242,General Industrial in Pan Malayan Warehouse,8257,767.1,303,Paya Lebar (D14),"['Column free', 'Large floor plate', 'Cctv', 'Car park', '24 hr access', 'Server room', 'Meeting rooms', 'Air conditioning']",8,2500000
+2243,Office in Textile Centre,602,55.93,1221,Rochor (D7),['Air conditioning'],1,735000
+2244,Shophouse in 88 Bedok North Street 4,4596,426.98,276,Upper East Coast (D16),"['Air conditioning', '24 hr access', 'Car park']",3,1268000
+2245,Factory in Cendex Centre,1537,142.79,789,Commonwealth (D3),[],0,1213141
+2246,Office in Woods Square,560,52.03,1961,Woodlands (D25),"['Bath room', 'Security access', 'Reception services', 'Car park', '24 hr access', 'Large floor plate', 'Meeting rooms', 'Air conditioning']",8,1098000
+2247,General Industrial in Win 5,2078,193.05,905,Yishun (D27),[],0,1880000
+2248,Office in Plus,624,57.97,3686,Marina (D1),['Air conditioning'],1,2300000
+2249,Retail in Centropod @ Changi,172,15.98,2610,Paya Lebar (D14),[],0,448888
+2250,Retail in The Midtown,334,31.03,3892,Sengkang (D19),"['Air conditioning', 'Column free']",2,1300000
+2251,Shophouse in The Bencoolen,344,31.96,10233,Rochor (D7),[],0,3520000
+2252,Shophouse in Kovan City,1603,148.92,1497,Sengkang (D19),[],0,2400000
+2253,Retail in Alexis,2164,201.04,4067,Commonwealth (D3),"['Column free', '24 hr access']",2,8800000
+2254,Shophouse in Dalhousie Lane,8310,772.02,1264,Serangoon Rd (D8),[],0,10500000
+2255,Retail in Singapore Shopping Centre,160,14.86,2000,River Valley (D9),[],0,320000
+2256,Retail in Oxley Tower,194,18.02,5149,Marina (D1),[],0,999000
+2257,Industrial Office in Mandai Connection,1690,157.01,296,Woodlands (D25),[],0,500000
+2258,Retail in Viva Vista,161,14.96,2981,Clementi (D5),[],0,480000
+2259,Office in 261 Waterloo Street,549,51,583,Rochor (D7),[],0,320000
+2260,Shop in Peninsula Shopping Complex,1465,136.1,2321,Clarke Quay (D6),[],0,3400000
+2261,Retail in City Gate,560,52.03,5000,Rochor (D7),[],0,2800000
+2262,Retail in City Gate,560,52.03,4821,Rochor (D7),[],0,2700000
+2263,Retail in City Gate,480,44.59,2917,Rochor (D7),[],0,1400000
+2264,Food & Beverage in Citrine Foodland,3574,332.04,1044,Sengkang (D19),[],0,3732000
+2265,General Industrial in Citrine Foodland,3584,332.96,1041,Sengkang (D19),['24 hr access'],1,3732000
+2266,General Industrial in Aljunied Industrial Complex,3067,284.93,750,Paya Lebar (D14),[],0,2300000
+2267,Shop in People's Park Centre,463,43.01,2484,Marina (D1),[],0,1150000
+2268,Industrial Office in LW Technocentre,1614,149.95,409,Tuas (D22),"['Column free', 'Meeting rooms']",2,660000
+2269,Retail in Bukit Timah Plaza,355,32.98,2701,Upper Bukit Timah (D21),['24 hr access'],1,958855
+2270,Shophouse in Eng Kong Park,1500,139.35,5333,Upper Bukit Timah (D21),[],0,8000000
+2271,General Industrial in AZ @ Paya Lebar,1485,137.96,1298,Paya Lebar (D14),[],0,1928000
+2272,Shophouse in Tanjong Pagar Road,2200,204.39,6000,Tanjong Pagar (D2),['24 hr access'],1,13200000
+2273,Warehouse in Joo Seng Warehouse,2110,196.03,663,Potong Pasir (D13),['24 hr access'],1,1399000
+2274,Office in Vision Exchange,700,65.03,2400,Tuas (D22),"['Air conditioning', '24 hr access', 'Raised floor']",3,1680000
+2275,Factory in Woodlands E-Terrace,7324,680.42,382,Yishun (D27),[],0,2800000
+2276,Office in Woods Square,1453,134.99,2019,Woodlands (D25),[],0,2932888
+2277,Office in Plus,624,57.97,3205,Marina (D1),[],0,2000000
+2278,Factory in Empire Technocentre,1550,144,555,Paya Lebar (D14),"['Bath room', 'Column free', 'Broadband', 'Cctv', 'Car park', 'Pantry', '24 hr access', 'Air conditioning']",8,860000
+2279,Factory in Synergy @ KB,1821,169.18,302,Paya Lebar (D14),"['Loading bay', 'Column free', 'Car park', 'Raised floor', '24 hr access', 'Large floor plate']",6,550000
+2280,Food & Beverage in Enterprise One,10409,967.03,1523,Paya Lebar (D14),[],0,15852277
+2281,Retail in Far East Plaza,269,24.99,4791,River Valley (D9),['Air conditioning'],1,1288888
+2282,Office in The Central,635,58.99,2567,Marina (D1),"['Air conditioning', 'Bath room', 'Cctv', '24 hr access']",4,1630000
+2283,Factory in 7 Mandai Estate,2863,265.98,1270,Woodlands (D25),['24 hr access'],1,3637000
+2284,Retail in Millage,366,34,2973,Paya Lebar (D14),"['Security access', 'Air conditioning', 'Cctv', '24 hr access', 'Car park']",5,1088000
+2285,Retail in Bugis Cube,355,32.98,3662,Rochor (D7),[],0,1300000
+2286,Shophouse in Eng Kong Terrace,1500,139.35,5333,Upper Bukit Timah (D21),['Car park'],1,8000000
+2287,General Industrial in Ruby Industrial Complex,1500,139.35,1867,Potong Pasir (D13),"['Loading bay', 'Car park']",2,2800000
+2288,Factory in Yi Xiu Factory Building,1500,139.35,1867,Paya Lebar (D14),"['Loading bay', 'Car park']",2,2800000
+2289,Retail in Geylang East,759,70.51,4743,Paya Lebar (D14),"['Loading bay', 'Car park']",2,3600000
+2290,Shophouse in Rochdale Road,1830,170.01,4372,Sengkang (D19),['Car park'],1,8000000
+2291,Retail in Fu Lu Shou Complex,700,65.03,5714,Rochor (D7),['Car park'],1,4000000
+2292,Shophouse in 1 Lorong 13 Geylang,9000,836.13,2667,Paya Lebar (D14),[],0,24000000
+2293,Retail in Junction Nine,172,15.98,5441,Yishun (D27),"['Broadband', 'Air conditioning', 'Loading bay', 'Car park']",4,935888
+2294,Warehouse in Richfield Industrial Centre,6300,585.29,352,Paya Lebar (D14),[],0,2218000
+2295,Factory in Enterprise Hub,4166,387.03,235,Tuas (D22),[],0,980000
+2296,Shophouse in 401 Race Course Road,2600,241.55,1500,Serangoon Rd (D8),"['Air conditioning', 'Bath room', 'Car park']",3,3900000
+2297,Retail in 137 Teck Whye Lane,140,13.01,10714,Choa Chu Kang (D23),[],0,1500000
+2298,Retail in The Midtown,785,72.93,3312,Sengkang (D19),['Grease trap'],1,2600000
+2299,Retail in Sim Lim Tower,506,47.01,2470,Serangoon Rd (D8),[],0,1250000
+2300,Retail in Parklane Shopping Mall,506,47.01,2470,Rochor (D7),[],0,1250000
+2301,Retail in Centropod @ Changi,223,20.72,3139,Paya Lebar (D14),[],0,699999
+2302,General Industrial in Redhill Forum,1270,117.99,512,Commonwealth (D3),[],0,650000
+2303,Factory in Synergy @ KB,1335,124.03,345,Paya Lebar (D14),"['Loading bay', 'Column free', 'Cctv', 'Car park', '24 hr access', 'Large floor plate']",6,460000
+2304,General Industrial in Nordcom Two,1668,154.96,304,Yishun (D27),['Car park'],1,507188
+2305,Office in Woods Square,561,52.12,1836,Woodlands (D25),"['Air conditioning', 'Cctv', 'Car park']",3,1030000
+2306,Retail in Katong Shopping Centre,334,31.03,2898,Marine Parade (D15),[],0,968000
+2307,Office in Parklane Shopping Mall,452,41.99,1504,Rochor (D7),[],0,680000
+2308,Industrial Office in Admiralty Industrial Park,1162,107.95,344,Yishun (D27),[],0,400000
+2309,General Industrial in Ark @ Gambas,2217,205.97,834,Yishun (D27),['Car park'],1,1850000
+2310,General Industrial in Ark @ Gambas,3422,317.91,384,Yishun (D27),"['Air conditioning', 'Car park', 'Pantry', 'Meeting rooms']",4,1313000
+2311,e-Business in Oxley Bizhub,2583,239.97,581,Paya Lebar (D14),[],0,1500000
+2312,Office in Parklane Shopping Mall,452,41.99,1504,Rochor (D7),[],0,680000
+2313,Factory in Unity Centre,4327,401.99,347,Choa Chu Kang (D23),"['24 hr access', 'Car park']",2,1500000
+2314,Factory in Eco-Tech @ Sunview,2605,242.01,184,Tuas (D22),[],0,480000
+2315,Factory in Pioneer Lot,10473,972.97,143,Tuas (D22),"['Loading bay', 'Own generator', 'Column free', 'Broadband', 'Reception services', 'Cctv', 'Car park', 'Pantry']",8,1500000
+2316,Factory in Tuas Bay Industrial Centre,6641,616.97,235,Tuas (D22),"['24 hr access', 'Air conditioning', 'Car park', 'Pantry', 'Meeting rooms']",5,1560000
+2317,Retail in The Midtown,785,72.93,3312,Sengkang (D19),['Grease trap'],1,2600000
+2318,Retail in Concorde Hotel And Shopping Mall,474,44.04,3797,River Valley (D9),[],0,1800000
+2319,Retail in Junction Nine,172,15.98,5441,Yishun (D27),"['Broadband', 'Air conditioning', 'Loading bay', 'Car park']",4,935888
+2320,Retail in The Midtown,785,72.93,3312,Sengkang (D19),['Grease trap'],1,2600000
+2321,Factory in 112 Neythal Road,125251,"11,636.19",96,Tuas (D22),[],0,12000000
+2322,Factory in 1 Commonwealth Drive,1281,119.01,527,Commonwealth (D3),[],0,675000
+2323,Factory in 1 Commonwealth Drive,1679,155.98,518,Commonwealth (D3),[],0,870000
+2324,Shophouse in Desker Road Conservation Area,1226,113.9,3181,Serangoon Rd (D8),[],0,3900000
+2325,Shophouse in Sims Vista,1500,139.35,1167,Paya Lebar (D14),"['Loading bay', 'Column free', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Air conditioning', 'Svc/smatv system']",8,1750000
+2326,Factory in 9 Tuas View Crescent,71580,"6,650",154,Tuas (D22),[],0,11000000
+2327,Retail in Stars Of Kovan,441,40.97,5556,Sengkang (D19),[],0,2450000
+2328,Warehouse in The Westcom,3079,286.05,247,Tuas (D22),"['Bath room', 'Chilled water supply', '24 hr access', 'Car park']",4,760000
+2329,Office in The Plaza,1302,120.96,1459,Rochor (D7),[],0,1900000
+2330,Warehouse in Da Jin Factory Building,2250,209.03,733,Sengkang (D19),[],0,1650000
+2331,Shophouse in The Beo Crescent,1500,139.35,1787,Commonwealth (D3),"['Air conditioning', 'Bath room', '24 hr access', 'Pantry', 'Car park']",5,2680000
+2332,Retail in Far Horizon Garden,624,57.97,1923,Thomson (D20),[],0,1200000
+2333,Factory in Gordon Warehouse Building,2562,238.02,300,Paya Lebar (D14),"['Cctv', '24 hr access']",2,768600
+2334,General Industrial in Westlink Two,3369,312.99,341,Tuas (D22),[],0,1150000
+2335,Factory in Kewalram House,2282,212,482,Commonwealth (D3),['Air conditioning'],1,1100000
+2336,General Industrial in Ark @ Gambas,1744,162.02,424,Yishun (D27),[],0,739000
+2337,General Industrial in Enterprise Industrial Building,7900,733.93,750,Paya Lebar (D14),"['Air conditioning', 'Cctv', 'Car park']",3,5925000
+2338,General Industrial in Enterprise Industrial Building,1636,151.99,750,Paya Lebar (D14),"['Air conditioning', 'Cctv', 'Car park']",3,1227000
+2339,Retail in Katong Shopping Centre,334,31.03,2898,Marine Parade (D15),[],0,968000
+2340,Shophouse in Jiak Chuan Road,4850,450.58,5155,Tanjong Pagar (D2),[],0,25000000
+2341,Warehouse in Noble Logistics,3638,337.98,646,Potong Pasir (D13),['24 hr access'],1,2350000
+2342,Factory in West Star,2411,223.99,346,Tuas (D22),"['Air conditioning', 'Security access']",2,835000
+2343,Retail in Icon @ Changi,161,14.96,3031,Paya Lebar (D14),[],0,488000
+2344,Retail in Concorde Hotel And Shopping Mall,474,44.04,3797,River Valley (D9),[],0,1800000
+2345,Office in Textile Centre,689,64.01,2177,Rochor (D7),[],0,1500000
+2346,Retail in The Adelphi,538,49.98,3500,Clarke Quay (D6),[],0,1883000
+2347,Office in Parklane Shopping Mall,452,41.99,1504,Rochor (D7),[],0,680000
+2348,Office in Ubi Techpark,1100,102.19,682,Paya Lebar (D14),[],0,750000
+2349,Factory in Nordix,6577,611.02,426,Yishun (D27),[],0,2800000
+2350,General Industrial in Westlink Two,3369,312.99,341,Tuas (D22),[],0,1150000
+2351,Warehouse in Oxley Bizhub,1916,178,574,Paya Lebar (D14),"['Bath room', 'Cctv', 'Car park', '24 hr access', 'Air conditioning', 'Water trap']",6,1100000
+2352,General Industrial in 63 @ Ubi,2788,259.01,484,Paya Lebar (D14),[],0,1350000
+2353,Retail in Far Horizon Garden,624,57.97,1923,Thomson (D20),[],0,1200000
+2354,Factory in Woodlands Bizhub,8100,752.51,481,Yishun (D27),[],0,3900000
+2355,Warehouse in The Westcom,3079,286.05,247,Tuas (D22),"['Bath room', 'Chilled water supply', '24 hr access', 'Car park']",4,760000
+2356,Shophouse in Newest,409,38,5086,Clementi (D5),[],0,2080000
+2357,Factory in Oxley Bizhub 2,1916,178,564,Paya Lebar (D14),[],0,1080000
+2358,Factory in Tuas Avenue 1,120000,"11,148.36",217,Tuas (D22),[],0,26000000
+2359,Office in Plus,624,57.97,3654,Marina (D1),[],0,2280000
+2360,Shophouse in Jalan Sultan,950,88.26,3474,Rochor (D7),"['24 hr access', 'Car park']",2,3300000
+2361,Factory in Enterprise One,10600,984.77,519,Paya Lebar (D14),['Car park'],1,5500000
+2362,Retail in Centropod @ Changi,183,17,2617,Paya Lebar (D14),"['Air conditioning', '24 hr access']",2,478888
+2363,Retail in Lucky Plaza,237,22.02,9620,River Valley (D9),[],0,2280000
+2364,Retail in Spazio @ Kovan,377,35.02,3183,Sengkang (D19),[],0,1200000
+2365,Retail in Holland Road Shopping Centre,678,62.99,5900,Holland (D10),[],0,4000000
+2366,Office in Suntec City Towers,1550,144,3548,Marina (D1),[],0,5500000
+2367,Factory in Mandai Connection,1711,158.96,286,Woodlands (D25),[],0,490000
+2368,Factory in Synergy @ KB,1500,139.35,480,Paya Lebar (D14),[],0,720000
+2369,Office in Suntec City Towers,3200,297.29,3500,Marina (D1),[],0,11200000
+2370,Shophouse in 1953,398,36.98,3219,Serangoon Rd (D8),[],0,1281000
+2371,General Industrial in Ping Yi Greens,36300,"3,372.38",1791,Upper East Coast (D16),[],0,65000000
+2372,General Industrial in Oxley Bizhub,4477,415.93,447,Paya Lebar (D14),[],0,2000000
+2373,General Industrial in The Crescent @ Kallang,1474,136.94,577,Potong Pasir (D13),[],0,850000
+2374,Retail in 9 @ Tagore,2595,241.08,1,Upper Thomson (D26),"['Bath room', 'Handicap friendly', 'Security access', 'Cctv', 'Car park', '24 hr access', 'Water trap', 'Loading bay']",8,3000
+2375,General Industrial in Delta House,750,69.68,3,Commonwealth (D3),"['Air conditioning', '24 hr access']",2,2200
+2376,General Industrial in EPL Building,1700,157.94,2,Commonwealth (D3),[],0,4080
+2377,Retail in 76 Prinsep Street,2583,239.97,10,Rochor (D7),[],0,25000
+2378,Industrial Office in Oxley Bizhub,110,10.22,9,Paya Lebar (D14),"['Air conditioning', 'Bath room', 'Cctv', '24 hr access']",4,1000
+2379,Industrial Office in 351 on Braddell,3602,334.64,5,Thomson (D20),"['Loading bay', 'Air conditioning', 'Security access', '24 hr access', 'Car park']",5,16569
+2380,Factory in Toh Guan Centre,120,11.15,5,Tuas (D22),[],0,650
+2381,General Industrial in Wcega Tower,958,89,2,Choa Chu Kang (D23),[],0,2250
+2382,Warehouse in Tuas South Street 1,30000,"2,787.09",1,Tuas (D22),[],0,31000
+2383,Factory in Shine@Tuas South,1798,167.04,1,Tuas (D22),['Dual power'],1,2500
+2384,Industrial Office in Bryton House,3100,288,3,Commonwealth (D3),"['Air conditioning', '24 hr access']",2,8060
+2385,Office in Crown At Robinson,3584,332.96,8,Marina (D1),"['Air conditioning', 'Bath room', 'Car park']",3,30000
+2386,Retail in International Building,1183,109.9,14,River Valley (D9),"['Air conditioning', 'Cctv', 'Car park']",3,17000
+2387,Retail in Frontier,3788,351.92,2,Paya Lebar (D14),['Air conditioning'],1,6000
+2388,Office in Hoa Nam Building,258,23.97,5,Serangoon Rd (D8),"['24 hr access', 'Car park']",2,1200
+2389,General Industrial in One Tannery,1750,162.58,2,Potong Pasir (D13),"['Loading bay', '24 hr access', 'Car park']",3,3325
+2390,General Industrial in UB Point,3724,345.97,2,Paya Lebar (D14),[],0,8200
+2391,Office in Emerald Garden,840,78.04,7,Marina (D1),"['24 hr access', 'Meeting rooms']",2,6000
+2392,General Industrial in Eunos Technolink,3072,285.4,2,Paya Lebar (D14),"['Bath room', 'Handicap friendly', 'Loading bay', 'Car park', '24 hr access', 'Air conditioning']",6,7388
+2393,Office in One North Bridge / High Street Centre,786,73.02,5,Clarke Quay (D6),[],0,4200
+2394,Shophouse in Lavender Place,840,78.04,6,Toa Payoh (D12),[],0,5040
+2395,Office in 10 Raeburn Park,9440,877,4,Tanjong Pagar (D2),"['Air conditioning', 'Reception services', '24 hr access', 'Pantry', 'Meeting rooms']",5,35872
+2396,General Industrial in 16 Kallang Place,3199,297.2,2,Toa Payoh (D12),"['Loading bay', 'Column free', 'Cctv', 'Car park', '24 hr access', 'Security access']",6,6000
+2397,Factory in Shine@Tuas South,2540,235.97,1,Tuas (D22),[],0,3048
+2398,General Industrial in Harvest @ Woodlands,1658,154.03,2,Yishun (D27),"['Air conditioning', 'Column free', '24 hr access']",3,2500
+2399,Office in One Holland Village Residences / One Holland Village,2938,272.95,10,Holland (D10),"['Air conditioning', 'Cctv', '24 hr access']",3,27911
+2400,General Industrial in 28 Kallang Place,976,90.67,2,Toa Payoh (D12),"['Security access', 'Loading bay', 'Column free', '24 hr access', 'Car park']",5,2100
+2401,Retail in Lucky Plaza,350,32.52,43,River Valley (D9),"['Broadband', 'Cctv', 'Car park', '24 hr access', 'Air conditioning', 'It support']",6,15000
+2402,Retail in City Plaza,250,23.23,19,Paya Lebar (D14),"['Security access', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Air conditioning']",6,4800
+2403,Warehouse in Oxley Bizhub,1141,106,2,Paya Lebar (D14),[],0,2680
+2404,Retail in 32 Penhas Road,5000,464.51,7,Serangoon Rd (D8),[],0,35000
+2405,Retail in Orchard Towers,200,18.58,19,River Valley (D9),[],0,3800
+2406,Retail in Bedok Central Area Office,1711,158.96,14,Upper East Coast (D16),[],0,23954
+2407,Factory in 18 New Industrial Road,354,32.89,46,Sengkang (D19),[],0,16300
+2408,Retail in 32 Pekin Street,937,87.05,7,Marina (D1),[],0,6746
+2409,Retail in 91 Ang Mo Kio Avenue 4,650,60.39,131,Thomson (D20),"['Bath room', 'Column free', 'Broadband', 'Cctv', 'Car park', '24 hr access', 'Air conditioning']",7,85000
+2410,Shophouse in Prinsep Street,2583,239.97,10,Rochor (D7),"['Bath room', 'Column free', 'Grease trap', 'Car park', 'Pantry', '24 hr access', 'Large floor plate', 'Air conditioning']",8,25000
+2411,Office in Suntec City Towers,2196,204.01,10,Marina (D1),"['Loading bay', 'Bath room', 'Cctv', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Backup generator']",8,21000
+2412,Office in The Central,872,81.01,7,Marina (D1),"['Loading bay', 'Air conditioning', 'Cctv', 'Car park']",4,6500
+2413,Office in Tong Eng Building,1227,113.99,5,Marina (D1),[],0,6500
+2414,Retail in Sim Lim Square,1500,139.35,7,Rochor (D7),"['Air conditioning', '24 hr access', 'Car park', 'Kitchen']",4,10000
+2415,Office in Grandlink Square,53,4.92,3547,Paya Lebar (D14),[],0,188000
+2416,Shophouse in 139 Teck Whye Lane,230,21.37,17,Choa Chu Kang (D23),[],0,4000
+2417,Retail in Edward Boustead Centre,2488,231.14,4,Paya Lebar (D14),"['Loading bay', 'Handicap friendly', 'Column free', 'Cctv', 'Car park', '24 hr access', 'Large floor plate', 'Air conditioning']",8,9600
+2418,Industrial Office in German Centre,3186,295.99,5,Tuas (D22),[],0,14504
+2419,Warehouse in Citilink Warehouse Complex,1526,141.77,3,Clementi (D5),[],0,3999
+2420,Retail in Stanley Street,1600,148.64,14,Marina (D1),"['Broadband', 'Grease trap', 'Cctv', '24 hr access', 'Air conditioning', 'Kitchen']",6,22000
+2421,Office in Woods Square,3337,310.02,5,Woodlands (D25),"['Loading bay', 'Security access', 'Reception services', 'Cctv', 'Car park', 'Pantry', 'Raised floor', '24 hr access']",8,16000
+2422,Office in Techlink,5651,524.99,3,Paya Lebar (D14),"['Bath room', 'Security access', 'Car park', 'Pantry', '24 hr access', 'Air conditioning', 'Loading bay']",7,16953
+2423,Office in Biztech Centre,969,90.02,2,Paya Lebar (D14),"['Security access', 'Column free', '24 hr access', 'Car park']",4,2325
+2424,Office in Republic Plaza,5000,464.51,10,Marina (D1),"['Bath room', 'Security access', 'Reception services', 'Cctv', 'Car park', '24 hr access', 'Air conditioning']",7,49800
+2425,Factory in Richfield Industrial Centre,2745,255.02,2,Paya Lebar (D14),[],0,6588
+2426,Factory in Tradehub 21,1250,116.13,4,Tuas (D22),[],0,4375
+2427,Retail in Orchard Towers,200,18.58,19,River Valley (D9),[],0,3800
+2428,Retail in The Flow,775,72,6,Marine Parade (D15),[],0,4650
+2429,Retail in Stars Of Kovan,614,57.04,15,Sengkang (D19),[],0,8909
+2430,Retail in Cuppage Plaza,1464,136.01,5,River Valley (D9),"['Column free', 'Air conditioning', 'Water trap', 'Cctv', '24 hr access']",5,7990
+2431,Retail in Asia Radio Building,956,88.82,14,Rochor (D7),"['Air conditioning', 'Kitchen']",2,13400
+2432,General Industrial in Tuas Avenue 1,9000,836.13,2,Tuas (D22),[],0,13500
+2433,Office in Peace Mansion / Peace Centre,1150,106.84,3,River Valley (D9),[],0,3000
+2434,Factory in 38 Ang Mo Kio Industrial Park 2,265,24.62,5,Thomson (D20),[],0,1230
+2435,Office in Six Battery Road,100,9.29,10,Marina (D1),[],0,1015
+2436,Office in 5 Raffles Place,5400,501.68,12,Marina (D1),"['Bath room', 'Security access', 'Reception services', 'Cctv', 'Car park', 'Raised floor', '24 hr access', 'Large floor plate']",8,64000
+2437,Office in Textile Centre,180,16.72,6,Rochor (D7),['24 hr access'],1,1000
+2438,Office in Northstar @ AMK,1948,180.98,513,Thomson (D20),"['Bath room', 'Loading bay', 'Raised floor', '24 hr access', 'Meeting rooms', 'Air conditioning', 'Kitchen']",7,1000000
+2439,Industrial Office in WCEGA Plaza,3358,311.97,255,Choa Chu Kang (D23),"['Bath room', 'Security access', 'Car park', 'Pantry', '24 hr access', 'Meeting rooms', 'Air conditioning', 'Water trap']",8,856290
+2440,Shophouse in 510 Bedok North Street 3,1453,134.99,1163,Upper East Coast (D16),"['Air conditioning', 'Car park']",2,1690000
+2441,Office in UB. One,1852,172.06,621,Paya Lebar (D14),[],0,1150000
+2442,Retail in One Dusun Residences,226,21,5664,Toa Payoh (D12),['Air conditioning'],1,1280000
+2443,Office in Vision Exchange,1539,142.98,2383,Tuas (D22),"['Loading bay', 'Handicap friendly', 'Column free', 'Reception services', 'Car park', 'Pantry', 'Raised floor', '24 hr access']",8,3666666
+2444,Factory in Woodlands Horizon,1722,159.98,418,Woodlands (D25),[],0,720000
+2445,Office in Soho Life,398,36.98,1872,Marine Parade (D15),"['Bath room', 'Column free', 'Car park', '24 hr access', 'Meeting rooms', 'Air conditioning', 'Kitchen']",7,745000
+2446,General Industrial in Win 5,2422,225.01,235,Yishun (D27),"['Column free', 'Car park', '24 hr access', 'Meeting rooms', 'Air conditioning', 'Kitchen']",6,568000
+2447,Office in Woods Square,560,52.03,2143,Woodlands (D25),[],0,1200000
+2448,Retail in OG Orchard,8869,823.96,45201,River Valley (D9),[],0,400888888
+2449,Office in Suntec City Towers,3500,325.16,3229,Marina (D1),[],0,11300000
